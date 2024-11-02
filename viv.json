@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "image": "https://example.com/player1.jpg",
+    "name": "John D.",
+    "description": "A talented forward with exceptional speed."
+  },
+  {
+    "id": 2,
+    "image": "https://example.com/player2.jpg",
+    "name": "Mike B.",
+    "description": "A skilled midfielder with great passing ability."
+  },
+  {
+    "id": 3,
+    "image": "https://example.com/player3.jpg",
+    "name": "Chris P.",
+    "description": "A solid defender with strong tackling skills."
+  },
+  {
+    "id": 4,
+    "image": "https://example.com/player4.jpg",
+    "name": "David L.",
+    "description": "A versatile midfielder with good vision."
+  },
+  {
+    "id": 5,
+    "image": "https://example.com/player5.jpg",
+    "name": "James R.",
+    "description": "A reliable goalkeeper with quick reflexes."
+  },
+  {
+    "id": 6,
+    "image": "https://example.com/player6.jpg",
+    "name": "Robert K.",
+    "description": "A powerful striker with a strong shot."
+  },
+  {
+    "id": 7,
+    "image": "https://example.com/player7.jpg",
+    "name": "Michael J.",
+    "description": "A creative midfielder with excellent dribbling skills."
+  },
+  {
+    "id": 8,
+    "image": "https://example.com/player8.jpg",
+    "name": "William S.",
+    "description": "A tough defender with good aerial ability."
+  },
+  {
+    "id": 9,
+    "image": "https://example.com/player9.jpg",
+    "name": "Thomas H.",
+    "description": "A clinical finisher with great composure."
+  },
+  {
+    "id": 10,
+    "image": "https://example.com/player10.jpg",
+    "name": "Charles M.",
+    "description": "A hardworking midfielder with good stamina."
+  },
+  {
+    "id": 11,
+    "image": "https://example.com/player11.jpg",
+    "name": "Richard N.",
+    "description": "A reliable defender with good positioning."
+  },
+  {
+    "id": 12,
+    "image": "https://example.com/player12.jpg",
+    "name": "Joseph O.",
+    "description": "A talented winger with good crossing ability."
+  },
+  {
+    "id": 13,
+    "image": "https://example.com/player13.jpg",
+    "name": "Daniel P.",
+    "description": "A versatile midfielder with good passing range."
+  },
+  {
+    "id": 14,
+    "image": "https://example.com/player14.jpg",
+    "name": "Henry Q.",
+    "description": "A solid defender with good tackling skills."
+  },
+  {
+    "id": 15,
+    "image": "https://example.com/player15.jpg",
+    "name": "Samuel R.",
+    "description": "A powerful striker with a strong shot."
+  },
+  {
+    "id": 16,
+    "image": "https://example.com/player16.jpg",
+    "name": "Benjamin S.",
+    "description": "A creative midfielder with excellent dribbling skills."
+  },
+  {
+    "id": 17,
+    "image": "https://example.com/player17.jpg",
+    "name": "Andrew T.",
+    "description": "A tough defender with good aerial ability."
+  },
+  {
+    "id": 18,
+    "image": "https://example.com/player18.jpg",
+    "name": "Theodore U.",
+    "description": "A clinical finisher with great composure."
+  },
+  {
+    "id": 19,
+    "image": "https://example.com/player19.jpg",
+    "name": "Victor V.",
+    "description": "A hardworking midfielder with good stamina."
+  },
+  {
+    "id": 20,
+    "image": "https://example.com/player20.jpg",
+    "name": "William W.",
+    "description": "A reliable defender with good positioning."
+  },
+  {
+    "id": 21,
+    "image": "https://example.com/player21.jpg",
+    "name": "Xavier X.",
+    "description": "A talented winger with good crossing ability."
+  },
+  {
+    "id": 22,
+    "image": "https://example.com/player22.jpg",
+    "name": "Yuri Y.",
+    "description": "A versatile midfielder with good passing range."
+  },
+  {
+    "id": 23,
+    "image": "https://example.com/player23.jpg",
+    "name": "Zachary Z.",
+    "description": "A solid defender with good tackling skills."
+  },
+  {
+    "id": 24,
+    "image": "https://example.com/player24.jpg",
+    "name": "Albert A.",
+    "description": "A powerful striker with a strong shot."
+  },
+  {
+    "id": 25,
+    "image": "https://example.com/player25.jpg",
+    "name": "Brian B.",
+    "description": "A creative midfielder with excellent dribbling skills."
+  },
+  {
+    "id": 26,
+    "image": "https://example.com/player26.jpg",
+    "name": "Carlos C.",
+    "description": "A tough defender with good aerial ability."
+  },
+  {
+    "id": 27,
+    "image": "https://example.com/player27.jpg",
+    "name": "Diego D.",
+    "description": "A clinical finisher with great composure."
+  },
+  {
+    "id": 28,
+    "image": "https://example.com/player28.jpg",
+    "name": "Eduardo E.",
+    "description": "A hardworking midfielder with good stamina."
+  },
+  {
+    "id": 29,
+    "image": "https://example.com/player29.jpg",
+    "name": "Fernando F.",
+    "description": "A reliable defender with good positioning."
+  },
+  {
+    "id": 30,
+    "image": "https://example.com/player30.jpg",
+    "name": "Gabriel G.",
+    "description": "A talented winger with good crossing ability."
+  }
+]
