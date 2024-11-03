@@ -1,182 +1,140 @@
 [
   {
     "id": 1,
-    "image": "https://example.com/player1.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FjohnD.png?alt=media&token=fa893379-5c24-477a-802d-d7f6b2de59d6",
     "name": "John D.",
     "description": "A talented forward with exceptional speed."
   },
   {
     "id": 2,
-    "image": "https://example.com/player2.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FMike.png?alt=media&token=27eb9451-8799-4be6-9a57-a725fc78d58e",
     "name": "Mike B.",
     "description": "A skilled midfielder with great passing ability."
   },
   {
     "id": 3,
-    "image": "https://example.com/player3.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FChris.png?alt=media&token=1fc2bc7f-d419-4303-afc2-afd780ad01fa",
     "name": "Chris P.",
     "description": "A solid defender with strong tackling skills."
   },
   {
     "id": 4,
-    "image": "https://example.com/player4.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FDevid.png?alt=media&token=95c02b0e-0742-4c79-99e0-95200f360645",
     "name": "David L.",
     "description": "A versatile midfielder with good vision."
   },
   {
     "id": 5,
-    "image": "https://example.com/player5.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FJAmes.png?alt=media&token=635af601-d1c0-4bbb-9495-971bfc9e4ba5",
     "name": "James R.",
     "description": "A reliable goalkeeper with quick reflexes."
   },
   {
     "id": 6,
-    "image": "https://example.com/player6.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FRobert.png?alt=media&token=0454b3b5-56eb-4dd5-ac84-b46ff3cd36b4",
     "name": "Robert K.",
     "description": "A powerful striker with a strong shot."
   },
   {
     "id": 7,
-    "image": "https://example.com/player7.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FMichael.png?alt=media&token=21bad668-15d0-4c22-b573-5c53332b9918",
     "name": "Michael J.",
     "description": "A creative midfielder with excellent dribbling skills."
   },
   {
     "id": 8,
-    "image": "https://example.com/player8.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2Fwilliam.png?alt=media&token=43c1020f-fa58-4096-8e9b-7e2dd69c472c",
     "name": "William S.",
     "description": "A tough defender with good aerial ability."
   },
   {
     "id": 9,
-    "image": "https://example.com/player9.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FThomas.png?alt=media&token=31b3d4e1-6cb2-4b0c-8090-fe6de70a8b5e",
     "name": "Thomas H.",
     "description": "A clinical finisher with great composure."
   },
   {
     "id": 10,
-    "image": "https://example.com/player10.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2Fcharles.png?alt=media&token=107f1331-de3b-4112-87cf-8eba33923ee6",
     "name": "Charles M.",
     "description": "A hardworking midfielder with good stamina."
   },
   {
     "id": 11,
-    "image": "https://example.com/player11.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2Frichard.png?alt=media&token=051aa904-b200-47a6-af26-af894b1f1f63",
     "name": "Richard N.",
     "description": "A reliable defender with good positioning."
   },
   {
     "id": 12,
-    "image": "https://example.com/player12.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2Fjoseph.png?alt=media&token=dadce967-fbb3-47f3-8797-1c56f6dbe7d2",
     "name": "Joseph O.",
     "description": "A talented winger with good crossing ability."
   },
   {
     "id": 13,
-    "image": "https://example.com/player13.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FDaniel.png?alt=media&token=013168c8-b4ea-4810-8218-67624301071c",
     "name": "Daniel P.",
     "description": "A versatile midfielder with good passing range."
   },
   {
     "id": 14,
-    "image": "https://example.com/player14.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FHenry.png?alt=media&token=cedcfe99-0f43-4f54-bb07-e59c31c2daf1",
     "name": "Henry Q.",
     "description": "A solid defender with good tackling skills."
   },
   {
     "id": 15,
-    "image": "https://example.com/player15.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FSamuel.png?alt=media&token=52486533-a8fc-492f-9f41-d908dd7c0d7d",
     "name": "Samuel R.",
     "description": "A powerful striker with a strong shot."
   },
   {
     "id": 16,
-    "image": "https://example.com/player16.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FBenjamin.png?alt=media&token=9f82eca1-7668-410e-9cab-d22fc49909ec",
     "name": "Benjamin S.",
     "description": "A creative midfielder with excellent dribbling skills."
   },
   {
     "id": 17,
-    "image": "https://example.com/player17.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FAndrew.png?alt=media&token=daf2f5ac-2a64-429c-88dd-e10745f6b9d0",
     "name": "Andrew T.",
     "description": "A tough defender with good aerial ability."
   },
   {
     "id": 18,
-    "image": "https://example.com/player18.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FTheodore.png?alt=media&token=1120513c-ea9d-4b39-a72e-2b587b87ab6b",
     "name": "Theodore U.",
     "description": "A clinical finisher with great composure."
   },
   {
     "id": 19,
-    "image": "https://example.com/player19.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2Fvictor.png?alt=media&token=6503257b-5a68-4a90-985d-b3ce3f996252",
     "name": "Victor V.",
     "description": "A hardworking midfielder with good stamina."
   },
   {
     "id": 20,
-    "image": "https://example.com/player20.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FWilliamW.png?alt=media&token=07344308-9061-419e-8581-8e18e515eeb0",
     "name": "William W.",
     "description": "A reliable defender with good positioning."
   },
   {
     "id": 21,
-    "image": "https://example.com/player21.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FXavier.png?alt=media&token=af954840-e9ee-414a-95a5-afdb62d7938c",
     "name": "Xavier X.",
     "description": "A talented winger with good crossing ability."
   },
   {
     "id": 22,
-    "image": "https://example.com/player22.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FXavier.png?alt=media&token=af954840-e9ee-414a-95a5-afdb62d7938c",
     "name": "Yuri Y.",
     "description": "A versatile midfielder with good passing range."
   },
   {
     "id": 23,
-    "image": "https://example.com/player23.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/4els2%2FZachary.png?alt=media&token=cab1c7fd-dc1b-4612-8e28-c8dae4335fd0",
     "name": "Zachary Z.",
     "description": "A solid defender with good tackling skills."
-  },
-  {
-    "id": 24,
-    "image": "https://example.com/player24.jpg",
-    "name": "Albert A.",
-    "description": "A powerful striker with a strong shot."
-  },
-  {
-    "id": 25,
-    "image": "https://example.com/player25.jpg",
-    "name": "Brian B.",
-    "description": "A creative midfielder with excellent dribbling skills."
-  },
-  {
-    "id": 26,
-    "image": "https://example.com/player26.jpg",
-    "name": "Carlos C.",
-    "description": "A tough defender with good aerial ability."
-  },
-  {
-    "id": 27,
-    "image": "https://example.com/player27.jpg",
-    "name": "Diego D.",
-    "description": "A clinical finisher with great composure."
-  },
-  {
-    "id": 28,
-    "image": "https://example.com/player28.jpg",
-    "name": "Eduardo E.",
-    "description": "A hardworking midfielder with good stamina."
-  },
-  {
-    "id": 29,
-    "image": "https://example.com/player29.jpg",
-    "name": "Fernando F.",
-    "description": "A reliable defender with good positioning."
-  },
-  {
-    "id": 30,
-    "image": "https://example.com/player30.jpg",
-    "name": "Gabriel G.",
-    "description": "A talented winger with good crossing ability."
   }
 ]
